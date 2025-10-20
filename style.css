@@ -1,0 +1,4 @@
+/* bodyタグの背景色を設定するのじゃ */
+body {
+    background-color: #e2e0fa; /* 薄い青色にしてみよう */
+}
