@@ -1,4 +1,9 @@
 /* bodyタグの背景色を設定するのじゃ */
 body {
-    background-color: #e2e0fa; /* 薄い青色にしてみよう */
+    background-color: #e0f7fa; /* 薄い青色にしてみよう */
+}
+
+/* h1タグの文字色を設定するのじゃ */
+h1 {
+    color: #00796b; /* 濃い青色にしてみよう */
 }
